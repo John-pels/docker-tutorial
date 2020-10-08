@@ -1,8 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## To run this app, you have to install docker and docker-compose to your local machine
+## To run this app, you have to install these Engines to your local machine:
+
+[Node](https://nodejs.org/en/)
+
+[NPM](https://www.npmjs.com/) OR [Yarn](https://yarnpkg.com/)
+
+[Docker](https://www.docker.com/get-started)
+
+[Docker-compose](https://docs.docker.com/compose/install/)
 
 In the project directory, you can run:
+
+## `npm install` or `yarn`
 
 ### `docker-compose up`
 
