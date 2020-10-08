@@ -6,7 +6,7 @@ FROM node:alpine
 WORKDIR /app   
 
 
-# Copy our package.json into the /code directory we created. It tells node what modules we wanna use. 
+# Copy our package.json into the /app directory we created. It tells node what modules we wanna use. 
 COPY package.json  /app
 
 # To install the dependencies the app needs inside of the Image.
