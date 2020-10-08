@@ -1,8 +1,8 @@
+![alt Docker](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fthe-what-and-why-of-docker-cdc8d99cbb3&psig=AOvVaw2ybhqiQ_HaV_6x4J0Y763_&ust=1602239799529000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCryMPmpOwCFQAAAAAdAAAAABAI)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## To run this app, you have to install these Engines to your local machine:
-
-![Docker](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fthe-what-and-why-of-docker-cdc8d99cbb3&psig=AOvVaw2ybhqiQ_HaV_6x4J0Y763_&ust=1602239799529000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCryMPmpOwCFQAAAAAdAAAAABAI)
 
 [Node](https://nodejs.org/en/)
 
