@@ -21,3 +21,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+You can refer to this article for better explanation
+
+[Getting started with Docker, Dockerize a React Application](https://johnpels.hashnode.dev/getting-started-with-docker-dockerize-a-react-app-ckg0o85tu00jozps11izhb5zl)
